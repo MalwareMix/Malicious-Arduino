@@ -1,13 +1,13 @@
 # Malicious-Arduino
 here are shell scripts that i have coded in shell anc C++ dont copy right or your a square!
 
-here there is a shell script with makes you a arduino script where what ever computer you plug it in it downloads and executes a payload in seconds to get a easy reverse connection by useing kali linux or parrot os DISCLAIMER! ONLY WORKS FOR WINDOWS #============================================================================================================" Slasher"
+here there is a shell script with makes you a arduino script where what ever computer you plug it in it downloads and executes a payload in seconds to get a easy reverse connection by useing kali linux or parrot os DISCLAIMER! ONLY WORKS FOR WINDOWS 
 
                  Welcome and dont disclaimer"
                 Slasher Author By MalwareMix"
     
            contact me in narutofinalform@protonmail.com"         
-#============================================================================================================"
+
 
 THIS SCRIPT WILL MAKE AN FILE CALLED DownloadExecute.ino IN THE OUTPUT FOLDER! MAKE SURE YOU HAVE HID PROJECT ADDED ON YOUR ARDUINO YOU CAN DO THAT BY LOOKING UP A YOUTUBE VIDEO OR WHEN YOUR TRY TO UPLOAD IT READ THE NAME OF THE ERROR AND FIND A FIX! IN THE FILE WHERE IS HAS THE LINK MAKE SURE TO CHANGE THE IP ADRESS TO YOUR IP ADRESS FOR YOUR KALI FOR PARROT OS OR WHAT EVER BOX OR OPERATING SYSTEM YOUR USEING IF YOU WANNA DO IT OVER WAN JUST START NGROK AND TAKE YOUR TCP LINK COPY IT WITH OUT THE PORT AT THE END JUST THE LINK DO IN A TERMINAL HOST ----> tcp.asJFNgh658.ngrok.io <------ THIS IS AN EXAMPLE NGROK LINK BUT DO THAT AND THEN YOU SHOULD GET AN IP ADRESS PUT THAT IN AND THEN MAKE SURE YOU PUT THEN MSFVENOM PAYLOAD FOUND IN THE OUTPUT FOLDER IN THE PAYLOAD FOLDER PUT THAT IN IN YOUR /VAR/WWW/HTML FOLDER START APACHE SERVER AND THEN PLUG INTO COMPUTER MUST BE WINDOWS AND HAVE FUN! DISCLAIMER! WHAT EVER YOU DO WITH THIS I HAVE NO RESPONDIBILITY FOR AND IF YOU GET YOUR ASS INTROUBLLE DONT COME CRYING TO ME!
 
